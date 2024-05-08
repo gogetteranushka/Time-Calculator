@@ -1,6 +1,6 @@
 # Time-Calculator
 
-Write a function named add_time that takes in two required parameters and one optional parameter:
+## Write a function named add_time that takes in two required parameters and one optional parameter:
 
 (i) a start time in the 12-hour clock format (ending in AM or PM)
 (ii) a duration time that indicates the number of hours and minutes
